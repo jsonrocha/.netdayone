@@ -1,0 +1,11 @@
+C:\assignments\.netdayone\obj\Debug\netcoreapp2.1\.netdayone.csprojAssemblyReference.cache
+C:\assignments\.netdayone\obj\Debug\netcoreapp2.1\.netdayone.csproj.CoreCompileInputs.cache
+C:\assignments\.netdayone\obj\Debug\netcoreapp2.1\.netdayone.AssemblyInfoInputs.cache
+C:\assignments\.netdayone\obj\Debug\netcoreapp2.1\.netdayone.AssemblyInfo.cs
+C:\assignments\.netdayone\bin\Debug\netcoreapp2.1\.netdayone.deps.json
+C:\assignments\.netdayone\bin\Debug\netcoreapp2.1\.netdayone.runtimeconfig.json
+C:\assignments\.netdayone\bin\Debug\netcoreapp2.1\.netdayone.runtimeconfig.dev.json
+C:\assignments\.netdayone\bin\Debug\netcoreapp2.1\.netdayone.dll
+C:\assignments\.netdayone\bin\Debug\netcoreapp2.1\.netdayone.pdb
+C:\assignments\.netdayone\obj\Debug\netcoreapp2.1\.netdayone.dll
+C:\assignments\.netdayone\obj\Debug\netcoreapp2.1\.netdayone.pdb
